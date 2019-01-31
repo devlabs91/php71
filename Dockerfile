@@ -21,6 +21,7 @@ php71-tidy \
 php71-xml \
 mysql \
 nano \
+less \
 openssh-server \
 openssh-clients \
 rsync \
